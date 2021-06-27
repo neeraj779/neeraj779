@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Neeraj</h1>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
 
-- 📫 How to reach me **neeraj9108@gmail.com**
+- 📫 How to reach me : **neeraj9108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
