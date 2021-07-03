@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋, I'm Neeraj</h1>
 <h3 align="center">A Boy trying to Figure-Out Stuff!!</h3>
+
 <img src="https://github.com/neeraj779/neeraj779/blob/main/resources/coding.gif?raw=true" alt="coding ?">
+
 - 📫 How to reach me : **neeraj9108@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
