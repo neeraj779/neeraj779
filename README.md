@@ -17,5 +17,5 @@
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeraj779&show_icons=true&locale=en&layout=compact&bg_color=30,141E30,243B55&title_color=fff&text_color=fff" alt="neeraj779" /></p>
 
-
+<br />
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neeraj779&show_icons=true&locale=en&bg_color=30,141E30,243B55&title_color=fff&text_color=fff" alt="neeraj779" /></p>
