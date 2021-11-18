@@ -19,6 +19,8 @@
 <a href="https://instagram.com/neeraj_779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neeraj_779" height="30" width="40" /></a>
 </p>
 
+![GitHub metrics](https://metrics.lecoq.io/neeraj779?template=terminal&base.metadata=0&config.timezone=Asia%2FCalcutta)
+
 ## Badges
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
 </a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
