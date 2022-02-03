@@ -9,7 +9,6 @@
 <a href="https://twitter.com/neeraj779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neeraj779" height="30" width="40" /></a>
 <a href="https://www.linkedin.com/in/neeraj-kumar-76019621b/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj-kumar-76019621b" height="30" width="40" /></a>
 <a href="https://stackoverflow.com/users/16050847" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="16050847" height="30" width="40" /></a>
-<a href="https://instagram.com/neeraj_779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neeraj_779" height="30" width="40" /></a>
 </p>
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeraj779&show_icons=true&locale=en&layout=compact&bg_color=30,141E30,243B55&title_color=fff&text_color=fff" alt="neeraj779" /></p>
