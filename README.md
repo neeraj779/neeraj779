@@ -18,3 +18,6 @@
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
 </a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
 
+
+<!-- ACTIVITY GRAPH TRACKER -->
+[![Neeraj's github activity graph](https://activity-graph.herokuapp.com/graph?username=neeraj779&theme=react-dark)](https://github.com/neeraj779/github-readme-activity-graph)
