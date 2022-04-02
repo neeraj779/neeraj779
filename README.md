@@ -17,7 +17,8 @@
 
 ## Badges
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
-</a> <a href='https://education.github.com/pack'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/pro.gif' width='40' height='40'></a> 
+</a> <a href='https://education.github.com/pack'><img src='https://user-images.githubusercontent.com/85169876/161388464-910c403f-891f-4181-b7bd-036d5ec0bd41.png' width='40' height='40'></a> 
+
 
 
 <!-- ACTIVITY GRAPH TRACKER -->
