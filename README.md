@@ -4,7 +4,7 @@
          width="45" />, I'm Neeraj</h1>
 <h3 align="center">Obsessed with coding. Always exploring and learning new technologies.</h3>
 
----
+
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neeraj779&show_icons=true&locale=en&bg_color=30,141E30,243B55&title_color=fff&text_color=fff" alt="neeraj779" /></p>
 
@@ -17,7 +17,7 @@
 <a href="https://instagram.com/neeraj779_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="neeraj779_" height="50" width="50" /></a>
 </p>
 
----
+
 
 ## Badges
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
