@@ -1,16 +1,23 @@
-<h2 align="center">Hey 👋, I'm Neeraj! and you've reached my Dev space on the WWW :)</h2>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/nixin72/nixin72/master/wave.gif"
+         alt="Waving hand animated gif"
+         height="45"
+         width="45" />, I'm Neeraj</h1>
+<h3 align="center">Obsessed with coding. Always exploring and learning new technologies.</h3>
 
-## Connect with me</h3>
-<p align="left">
-<a href="https://www.hackerrank.com/neeraj779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="neeraj779" height="30" width="40" /></a>
-<a href="https://www.linkedin.com/in/neeraj779/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="neeraj-kumar-76019621b" height="30" width="40" /></a>
-<a href="https://twitter.com/neeraj_779" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="neeraj779" height="30" width="40" /></a>
-<a href="https://instagram.com/neeraj779_" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="neeraj779_" height="30" width="40" /></a>
-</p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=neeraj779&show_icons=true&locale=en&layout=compact&bg_color=30,141E30,243B55&title_color=fff&text_color=fff" alt="neeraj779" /></p>
+---
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=neeraj779&show_icons=true&locale=en&bg_color=30,141E30,243B55&title_color=fff&text_color=fff" alt="neeraj779" /></p>
+
+---
+
+<h3 align="center">Connect with me:</h3>
+<p align="center">
+<a href="https://www.linkedin.com/in/neeraj779/" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/linkedin.png" alt="neeraj-kumar-76019621b" height="50" width="50" /></a>
+<a href="https://twitter.com/neeraj_779" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/twitter.png" alt="neeraj779" height="50" width="50" /></a>
+<a href="https://instagram.com/neeraj779_" target="blank"><img align="center" src="https://img.icons8.com/cute-clipart/64/000000/instagram-new.png" alt="neeraj779_" height="50" width="50" /></a>
+</p>
+
+---
 
 ## Badges
 <a href='https://docs.github.com/en/developers'><img src='https://raw.githubusercontent.com/acervenky/animated-github-badges/master/assets/devbadge.gif' width='40' height='40'>
