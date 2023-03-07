@@ -1,7 +1,12 @@
 # Hi, I'm Neeraj 👋
 # 💫 About Me:
-I am an avid coder who loves exploring and learning new technologies. I am passionate about software development and always strive to improve my skills.
 
+<img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
+
+🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at Satyabama Institute of Science and Technology.\
+💡 &nbsp;Some technologies I enjoy working with include Django, ReactJS, JavaScript, NodeJS.\
+🌱 &nbsp;I'm on track for learning more about Data Structures, Algorithms, Cross-Platform Development and  Systems Design.\
+✉️ &nbsp;You can shoot me an email at neeraj79108@gmail.com! I'll be thrilled to connect and collaborate on any exciting projects!
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/neeraj779_) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/neeraj779) [![Medium](https://img.shields.io/badge/Medium-12100E?logo=medium&logoColor=white)](https://medium.com/@neeraj779) [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/neeraj_779) 
@@ -16,4 +21,5 @@ I am an avid coder who loves exploring and learning new technologies. I am passi
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=neeraj779&theme=radical&no-frame=false&no-bg=true&margin-w=4)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## Watch my contributions get eaten by a snake 🐍
+![snake gif](https://github.com/neeraj779/neeraj779/blob/output/github-contribution-grid-snake.svg)
