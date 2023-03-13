@@ -16,6 +16,7 @@ jobs:
         id: snake-gif
         with:
           github_user_name: neeraj779
+          gif_out_path: dist/github-contribution-grid-snake.gif
           svg_out_path: dist/github-contribution-grid-snake.svg
 
       - run: git status
