@@ -20,6 +20,3 @@
 
 ## 🏆 GitHub Trophies
 ![](https://github-profile-trophy.vercel.app/?username=neeraj779&theme=radical&no-frame=false&no-bg=true&margin-w=4)
-
-## Watch my contributions get eaten by a snake 🐍
-![snake gif](https://github.com/neeraj779/neeraj779/blob/output/github-contribution-grid-snake.svg)
