@@ -3,9 +3,7 @@
 
 <img alt="Night Coding" src="https://raw.githubusercontent.com/AVS1508/AVS1508/master/assets/Night-Coding.gif" align="right"/>
 
-🎓 &nbsp;I'm currently studying Electronics and Communication Engineering at Satyabama Institute of Science and Technology.\
-💡 &nbsp;Some technologies I enjoy working with include Django, ReactJS, JavaScript, NodeJS.\
-🌱 &nbsp;I'm on track for learning more about Data Structures, Algorithms, Cross-Platform Development and  Systems Design.\
+💡 &nbsp;Some technologies I enjoy working with include FastAPI, Django, ReactJS, JavaScript, NodeJS.\
 ✉️ &nbsp;You can shoot me an email at neeraj79108@gmail.com! I'll be thrilled to connect and collaborate on any exciting projects!
 
 ## 🌐 Socials:
